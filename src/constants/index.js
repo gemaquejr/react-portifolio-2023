@@ -5,15 +5,16 @@ import {
     web,
     javascript,
     typescript,
+    java,
     html,
     css,
+    angular,
     reactjs,
     redux,
     tailwind,
     nodejs,
     mongodb,
     git,
-    figma,
     docker,
     freelance,
     ibge,
@@ -22,7 +23,6 @@ import {
     carrent,
     jobit,
     tripguide,
-    threejs,
   } from "../assets";
   
   export const navLinks = [
@@ -77,12 +77,20 @@ import {
       icon: typescript,
     },
     {
+      name: "Java",
+      icon: java,
+    },
+    {
       name: "React JS",
       icon: reactjs,
     },
     {
       name: "Redux Toolkit",
       icon: redux,
+    },
+    {
+      name: "Angular",
+      icon: angular,
     },
     {
       name: "Tailwind CSS",
@@ -97,16 +105,8 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
       name: "git",
       icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
     },
     {
       name: "docker",
