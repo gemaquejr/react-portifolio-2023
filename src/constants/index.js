@@ -168,34 +168,7 @@ import {
       ],
     },
   ];
-  
-  const testimonials = [
-    {
-      testimonial:
-        "Conheci o Gemaque em uma dinâmica na Trybe sobre carreiras e percebi que ele é uma pessoa de multiplas habilidades, com um perfil muito analítico e técnico, além de ter ótimas habilidades em hard e soft skills voltadas à programação web e trabalho em equipe. Espero ter a oportunidade de um dia trabalhar em um projeto ou atividade técnica com o mesmo, pois parece ser uma ótima pessoa para se trabalhar em grupo.",
-      name: "Viviane Freitas",
-      designation: "Software Developer",
-      company: "Mercado Livre",
-      image: "https://media.licdn.com/dms/image/C4D03AQEwSyyb0Waivw/profile-displayphoto-shrink_100_100/0/1623958162798?e=1706140800&v=beta&t=ZDOlhsvV4VR8u71b0CTifTWWbTT1uhcoAUZyIp2ElQA",
-    },
-    {
-      testimonial:
-        "Acompanho sua dedicação diária, aprendizagem e aperfeiçoamento constantes estão fazendo de você um excelente profissional nesta transição de carreira. Você vai longe! Sucesso!",
-      name: "Edna Gemaque",
-      designation: "Médica de Família e Comunidade",
-      company: "Amil",
-      image: "https://media.licdn.com/dms/image/C4E03AQEOVSCdgajhow/profile-displayphoto-shrink_200_200/0/1629746335854?e=1706140800&v=beta&t=GZ8240dtv3GZxzLkLFLld-bPfCTUHyMWISkdoLs_hNg",
-    },
-    {
-      testimonial:
-        "Francisco Espíndola Gemaque Junior olha aí falando em coisa boa kkkkk rapaz foi muito gratificante conhecer você e ter tido a oportunidade de conversar em 1:1. Vi que é uma pessoa do bem, do tipo que se preocupa com as outras, isso é perfil de pessoas vencedoras. Desejo que continue estudando e aperfeiçoando seus conhecimentos técnicos e assim possa profissionalmente realizar seus sonhos. Forte abraço! ",
-      name: "Cristiano Benites",
-      designation: "Especialista na área de ciência da computação",
-      company: "TRYBE",
-      image: "https://media.licdn.com/dms/image/D4E03AQGMf733iGqi2A/profile-displayphoto-shrink_100_100/0/1695331292329?e=1706140800&v=beta&t=xIDrZ3vSfD-ZU0oSAHg_e6R2ZDYWWJVZf9RQSuzKSSU",
-    },
-  ];
-  
+    
   const projects = [
     {
       name: "Disney+ Clone",
@@ -262,4 +235,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, projects };
