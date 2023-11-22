@@ -159,7 +159,7 @@ import {
       company_name: "Freelance",
       icon: freelance,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Agosto de 2021 - Até o presente momento",
       points: [
         "Desenvolvimento e manutenção de aplicações web usando React.js e outras tecnologias relacionadas;",
         "Colaborar com equipes multifuncionais, incluindo gerentes de produto e outros desenvolvedores, para criar produtos de alta qualidade;",
