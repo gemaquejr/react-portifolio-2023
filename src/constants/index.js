@@ -20,9 +20,9 @@ import {
     ibge,
     mpeg,
     sesma,
-    carrent,
-    jobit,
-    tripguide,
+    disney,
+    netflix,
+    trivia,
   } from "../assets";
   
   export const navLinks = [
@@ -198,58 +198,58 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Disney+ Clone",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "O projeto foi desenvolver uma aplicação em React, consumindo os dados do firebase para obter informações sobre os filmes e séries.",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Redux",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Styled Components",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: disney,
+      source_code_link: "https://github.com/gemaquejr/react-disney-clone",
     },
     {
-      name: "Job IT",
+      name: "Netflix Clone",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "O projeto foi desenvolver uma aplicação em React, consumindo os dados da API do site themoviedb.org, para obter informações sobre os filmes e séries.",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "RestAPI",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Css",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: netflix,
+      source_code_link: "https://github.com/gemaquejr/react-netflix-clone",
     },
     {
-      name: "Trip Guide",
+      name: "Trivia",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "O projeto foi desenvolver uma aplicação em React, consumindo os dados da API do site The Open Trivia Database para realizar a busca das perguntas e respostas.",
       tags: [
         {
-          name: "nextjs",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Redux",
           color: "green-text-gradient",
         },
         {
@@ -257,8 +257,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: trivia,
+      source_code_link: "https://github.com/gemaquejr/trivia-react-redux",
     },
   ];
   

@@ -26,9 +26,9 @@ import ibge from "./company/ibge.png";
 import mpeg from "./company/mpeg.png";
 import sesma from "./company/sesma.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import disney from "./disney.png";
+import netflix from "./netflix.png";
+import trivia from "./trivia.gif";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   ibge,
   mpeg,
   sesma,
-  carrent,
-  jobit,
-  tripguide,
+  disney,
+  netflix,
+  trivia,
 };
