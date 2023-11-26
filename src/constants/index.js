@@ -5,6 +5,7 @@ import {
     web,
     javascript,
     typescript,
+    python,
     java,
     html,
     css,
@@ -13,9 +14,15 @@ import {
     redux,
     tailwind,
     nodejs,
+    mysql,
     mongodb,
+    jest,
+    mocha,
     git,
+    github,
     docker,
+    trello,
+    vscode,
     freelance,
     ibge,
     mpeg,
@@ -77,6 +84,10 @@ import {
       icon: typescript,
     },
     {
+      name: "Python",
+      icon: python,
+    },
+    {
       name: "Java",
       icon: java,
     },
@@ -101,16 +112,40 @@ import {
       icon: nodejs,
     },
     {
+      name: "MySQL",
+      icon: mysql,
+    },
+    {
       name: "MongoDB",
       icon: mongodb,
+    },
+    {
+      name: "Jest",
+      icon: jest,
+    },
+    {
+      name: "Mocha",
+      icon: mocha,
     },
     {
       name: "git",
       icon: git,
     },
     {
+      name: "Github",
+      icon: github,
+    },
+    {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "Trello",
+      icon: trello,
+    },
+    {
+      name: "VsCode",
+      icon: vscode,
     },
   ];
   

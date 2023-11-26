@@ -14,12 +14,18 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import java from "./tech/java.png";
+import jest from "./tech/jest.png";
 import mongodb from "./tech/mongodb.png";
+import mysql from "./tech/mysql.png";
 import nodejs from "./tech/nodejs.png";
+import python from "./tech/python.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
+import trello from "./tech/trello.png";
 import typescript from "./tech/typescript.png";
+import vscode from "./tech/vscode.png";
+import mocha from "./tech/mocha.png"
 
 import freelance from "./company/freelance.png";
 import ibge from "./company/ibge.png";
@@ -46,11 +52,16 @@ export {
   html,
   javascript,
   java,
+  jest,
+  mocha,
   mongodb,
+  mysql,
   nodejs,
+  python,
   reactjs,
   redux,
   tailwind,
+  trello,
   typescript,
   freelance,
   ibge,
@@ -59,4 +70,5 @@ export {
   disney,
   netflix,
   trivia,
+  vscode,
 };
