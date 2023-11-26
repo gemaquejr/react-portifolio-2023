@@ -9,18 +9,24 @@ import {
     java,
     html,
     css,
-    angular,
     reactjs,
     redux,
+    vite,
+    angular,
     tailwind,
     nodejs,
     mysql,
     mongodb,
     jest,
     mocha,
+    chai,
+    sinon,
+    junit,
+    pytest,
     git,
     github,
     docker,
+    heroku,
     trello,
     vscode,
     freelance,
@@ -84,12 +90,12 @@ import {
       icon: typescript,
     },
     {
-      name: "Python",
-      icon: python,
-    },
-    {
       name: "Java",
       icon: java,
+    },
+    {
+      name: "Python",
+      icon: python,
     },
     {
       name: "React JS",
@@ -102,6 +108,10 @@ import {
     {
       name: "Angular",
       icon: angular,
+    },
+    {
+      name: "Vite",
+      icon: vite,
     },
     {
       name: "Tailwind CSS",
@@ -128,6 +138,22 @@ import {
       icon: mocha,
     },
     {
+      name: "Chai",
+      icon: chai,
+    },
+    {
+      name: "SinonJs",
+      icon: sinon,
+    },
+    {
+      name: "Pytest",
+      icon: pytest,
+    },
+    {
+      name: "JUnit",
+      icon: junit,
+    },
+    {
       name: "git",
       icon: git,
     },
@@ -138,6 +164,10 @@ import {
     {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "Heroku",
+      icon: heroku,
     },
     {
       name: "Trello",

@@ -8,24 +8,30 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import angular from "./tech/angular.png";
+import chai from "./tech/chai.png"
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import git from "./tech/git.png";
+import heroku from "./tech/heroku.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import java from "./tech/java.png";
 import jest from "./tech/jest.png";
+import junit from "./tech/junit.png"
+import mocha from "./tech/mocha.png"
 import mongodb from "./tech/mongodb.png";
 import mysql from "./tech/mysql.png";
 import nodejs from "./tech/nodejs.png";
+import pytest from "./tech/pytest.png"
 import python from "./tech/python.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
+import sinon from "./tech/sinon.png"
 import tailwind from "./tech/tailwind.png";
 import trello from "./tech/trello.png";
 import typescript from "./tech/typescript.png";
+import vite from "./tech/vite.png";
 import vscode from "./tech/vscode.png";
-import mocha from "./tech/mocha.png"
 
 import freelance from "./company/freelance.png";
 import ibge from "./company/ibge.png";
@@ -46,23 +52,29 @@ export {
   menu,
   close,
   angular,
+  chai,
   css,
   docker,
   git,
+  heroku,
   html,
   javascript,
   java,
   jest,
+  junit,
   mocha,
   mongodb,
   mysql,
   nodejs,
+  pytest,
   python,
   reactjs,
   redux,
+  sinon,
   tailwind,
   trello,
   typescript,
+  vite,
   freelance,
   ibge,
   mpeg,
