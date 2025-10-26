@@ -40,6 +40,7 @@ import sesma from "./company/sesma.png";
 
 import disney from "./disney.png";
 import netflix from "./netflix.png";
+import gym from "./gym.png"
 import trivia from "./trivia.gif";
 
 export {
@@ -82,5 +83,6 @@ export {
   disney,
   netflix,
   trivia,
+  gym,
   vscode,
 };

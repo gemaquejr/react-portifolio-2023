@@ -36,6 +36,7 @@ import {
     disney,
     netflix,
     trivia,
+    gym,
   } from "../assets";
   
   export const navLinks = [
@@ -236,6 +237,23 @@ import {
     
   const projects = [
     {
+      name: "Gym Landing Page",
+      description:
+        "Uma página moderna e responsiva desenvolvida com React e CSS puro, projetada para academias que desejam apresentar seus serviços com um visual atualizado.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: gym,
+      source_code_link: "https://github.com/gemaquejr/react-gym-app",
+    },
+    {
       name: "Disney+ Clone",
       description:
         "O projeto foi desenvolver uma aplicação em React, consumindo os dados do firebase para obter informações sobre os filmes e séries.",
@@ -291,13 +309,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Css",
           color: "pink-text-gradient",
         },
       ],
       image: trivia,
       source_code_link: "https://github.com/gemaquejr/trivia-react-redux",
-    },
+    }
   ];
   
   export { services, technologies, experiences, projects };
