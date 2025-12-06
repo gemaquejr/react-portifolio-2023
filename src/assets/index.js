@@ -42,6 +42,7 @@ import disney from "./disney.png";
 import netflix from "./netflix.png";
 import gym from "./gym.png"
 import trivia from "./trivia.gif";
+import dashboard from "./dashboard.png"
 
 export {
   logo,
@@ -85,4 +86,5 @@ export {
   trivia,
   gym,
   vscode,
+  dashboard,
 };

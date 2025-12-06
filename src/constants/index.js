@@ -37,6 +37,7 @@ import {
     netflix,
     trivia,
     gym,
+    dashboard,
   } from "../assets";
   
   export const navLinks = [
@@ -237,9 +238,26 @@ import {
     
   const projects = [
     {
+      name: "Dashboard Landing Page",
+      description:
+        "Um painel administrativo moderno, responsivo e totalmente estilizado utilizando React, Material UI (MUI) e múltiplos tipos de gráficos.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Context-api",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: dashboard,
+      source_code_link: "https://github.com/gemaquejr/react-gemaque-dashboard",
+    },
+    {
       name: "Gym Landing Page",
       description:
-        "Uma página moderna e responsiva desenvolvida com React e CSS puro, projetada para academias que desejam apresentar seus serviços com um visual atualizado.",
+        "Uma página moderna e responsiva, projetada para academias que desejam apresentar seus serviços com um visual atualizado.",
       tags: [
         {
           name: "React",
